@@ -37,7 +37,7 @@ function Nav() {
         <ul className="nav__contents__links">
           <li>
             {' '}
-            <Link to="/">Discover</Link>
+            <Link to="/">Home</Link>
           </li>
 
           <li>
