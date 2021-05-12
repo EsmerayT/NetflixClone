@@ -227,7 +227,7 @@ const Banner = () => {
       </header>
       {/* <div className=""></div> */}
       <h2 className="banner__contents__type" style={{ marginLeft: '3%' }}>
-        Top 20
+        Top 20 films in Nederland
       </h2>
 
       <div className="banner__contents__slider">
