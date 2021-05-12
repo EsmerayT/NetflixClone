@@ -34,4 +34,17 @@
     margin-bottom: 80px;
 }
 
+.pop-up__content__description > img {
+    margin-top: 5px;
+}
+
+.release {
+    margin-top: 5px;
+}
+
+.average {
+    color: #2fbf6d;
+    font-weight: bold;
+}
+
 

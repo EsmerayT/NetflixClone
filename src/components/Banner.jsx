@@ -237,11 +237,11 @@ const Banner = () => {
       </div>
 
       <div className="rows">
-        <Row genre={Eighties} type="80's" />
-        <Row genre={Nineties} type="90's" />
-        <Row genre={Zeroes} type="00's" />
-        <Row genre={Disney} type="Disney" />
-        <Row genre={Actor} type="Acteur" />
+        <Row genre={Eighties} type="80's films" />
+        <Row genre={Nineties} type="90's films" />
+        <Row genre={Zeroes} type="00's films" />
+        <Row genre={Disney} type="Disney films" />
+        <Row genre={Actor} type="Resultaten voor Keanu Reeves " />
       </div>
     </div>
   );
