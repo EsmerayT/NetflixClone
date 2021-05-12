@@ -1,0 +1,37 @@
+.banner {
+    height: 90vh;
+}
+
+.banner__contents__type {
+    margin-top: -110px;
+    font-size: 20px;
+    position: absolute;
+}
+
+.banner__contents__slider {
+    margin-top: -130px;
+    position: absolute;
+
+}
+
+
+.banner__contents__logo {
+    margin-top: -40px;
+}
+
+.slider-image {
+    margin-top: -20px;
+    width: 117px;
+}
+
+.container > h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.rows {
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+
+

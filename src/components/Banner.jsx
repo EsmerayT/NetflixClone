@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../style.css';
+import '../styles/test.css';
 
 import axios from '../axios';
 import ReactPlayer from 'react-player/youtube';
@@ -235,7 +236,7 @@ const Banner = () => {
         ))}
       </div>
 
-      <div>
+      <div className="rows">
         <Row genre={Eighties} type="80's" />
         <Row genre={Nineties} type="90's" />
         <Row genre={Zeroes} type="00's" />
