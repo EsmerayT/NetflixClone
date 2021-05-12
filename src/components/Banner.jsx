@@ -188,7 +188,7 @@ const Banner = () => {
                     <span className="average">
                       Cijfer {movie[0].vote_average}
                     </span>
-                    {` ${movie[0].release_date}`}
+                    {` ${movie[0].release_date.slice(0, 4)}`}
                   </p>
 
                   <img
