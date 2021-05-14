@@ -11,6 +11,7 @@
 .banner__contents__slider {
     margin-top: -130px;
     position: absolute;
+    z-index: 0;
 
 }
 
