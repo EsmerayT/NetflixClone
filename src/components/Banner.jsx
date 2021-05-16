@@ -92,7 +92,7 @@ const Banner = () => {
           }")`,
         }}
       >
-        <div className="schadow"></div>
+        <div className="shadow"></div>
         {active ? (
           <div className="player-wrapper">
             <ReactPlayer
